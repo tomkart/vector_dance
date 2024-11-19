@@ -1,11 +1,6 @@
 #!/usr/bin/env python3
 
-# 
 
-"""Hello World
-
-Make Vector say 'Hello World' in this simple Vector SDK example program.
-"""
 import os
 import sys
 import time
